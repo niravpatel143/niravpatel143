@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **vuejs,nodejs.laravel,codeignator,php**
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **goriyanirav223@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
