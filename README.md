@@ -1,56 +1,16 @@
-# Experienced Web Developer
+<h1 align="center">Hi 👋, I'm Nirav Goriya</h1>
+<h3 align="center">A passionate frontend/backend developer from India</h3>
 
-## About Me
+- 🌱 I’m currently learning **nodejs**
 
-I am a highly experienced web developer with a strong background in PHP, Laravel, Node.js, and Vue.js. Over the years, I have honed my skills in web development, contributing to numerous successful projects. My passion lies in creating innovative and user-friendly web solutions that meet and exceed client expectations.
+- 💬 Ask me about **vuejs,nodejs.laravel,codeignator,php**
 
-## Skills
+- 📫 How to reach me **example@gmail.com**
 
-- **Languages**: PHP, JavaScript, HTML, CSS
-- **Frameworks**: Laravel, Vue.js, Node.js, Express
-- **Databases**: MySQL, MongoDB
-- **Content Management Systems**: WordPress
-- **Version Control**: Git
-- **Front-End Tools**: HTML5, CSS3, SASS, Bootstrap
-- **Testing and Debugging**: PHPUnit, Jest
-- **RESTful API Development**
-- **Performance Optimization**
-- **Security Best Practices**
-- **Agile Development**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/niravgoriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niravgoriya" height="30" width="40" /></a>
+</p>
 
-## Experience
-
-### [Company Name] - [Job Title] (MM/YYYY - Present)
-
-- Describe your role, responsibilities, and notable achievements at this company.
-
-### [Company Name] - [Job Title] (MM/YYYY - MM/YYYY)
-
-- Describe your role, responsibilities, and notable achievements at this company.
-
-### [Company Name] - [Job Title] (MM/YYYY - MM/YYYY)
-
-- Describe your role, responsibilities, and notable achievements at this company.
-
-## Projects
-
-### [Project Name]
-
-- Provide a brief description of the project.
-- Mention the technologies and tools you used.
-- Include a link to the GitHub repository or live demo if applicable.
-
-### [Project Name]
-
-- Provide a brief description of the project.
-- Mention the technologies and tools you used.
-- Include a link to the GitHub repository or live demo if applicable.
-
-## Contact
-
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **Email**: your@email.com
-- **Website**: [Your Personal Website](https://yourwebsite.com)
-
-Feel free to customize this template with your specific experiences, projects, and contact information. A well-organized `README.md` can serve as an impressive portfolio and resume for potential employers or collaborators.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
