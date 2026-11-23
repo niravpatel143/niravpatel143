@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **vuejs,nodejs.laravel,codeignator,php**
 
-- 📫 How to reach me **goriyanirav223@gmail.com**
+- 📫 How to reach me **goriyanirav224@gmail.com**
 
 - ⚡ Fun fact **yes**
 
